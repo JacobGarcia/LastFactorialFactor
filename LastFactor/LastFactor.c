@@ -63,7 +63,7 @@ void InitializeList(int *list, int size){
 
 /*************************************************************************/
 /*                                                                       */
-/*  Function: Reduce                                                     */
+/*  Function: ReduceNumber                                               */
 /*                                                                       */
 /*  Purpose: This function returns the number of 2's or 5's (depending   */
 /*           the case) which a single number inside the array gives      */
